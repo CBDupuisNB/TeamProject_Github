@@ -5,8 +5,12 @@
 
             <!-- Blog Entries Column -->
             <div class="col-md-8">
-            <h1 class="page-header">You are now logged out.</h1>
+            <h1 class="page-header">Are you sure you want to logout?</h1>
+            
             
             <?php
-            //Insert code to disconnect from database here
+            //session_start();
+            //session_destroy();
+            //header('Location: login.php');
+            //exit;
             ?>

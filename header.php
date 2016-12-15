@@ -22,6 +22,10 @@
     <!-- Bungee Font for Logo -->
     <link href="https://fonts.googleapis.com/css?family=Bungee" rel="stylesheet">
     
+    
+    
+    
+    
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -65,9 +69,6 @@
 //                    ?>
                     <li>
                     <a href="profile.php">Profile</a> <!-- Show only if logged in -->
-                    </li>
-                    <li>
-                        <a href="logout.php">Sign off</a> <!-- Show only if logged in -->
                     </li>
                 </ul>
             </div>
